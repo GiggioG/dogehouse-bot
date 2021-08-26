@@ -1,0 +1,22 @@
+{
+    "name": "dhbot",
+    "version": "1.0.0",
+    "description": "A test dogehouse bot.",
+    "main": "src/index.js",
+    "type": "commonjs",
+    "scripts": {
+        "start": "node ."
+    },
+    "keywords": [
+        "bot",
+        "test",
+        "doge",
+        "benawad"
+    ],
+    "author": "GiggioG",
+    "license": "ISC",
+    "dependencies": {
+        "dotenv": "^8.2.0",
+        "ws": "^7.4.4"
+    }
+}
